@@ -1,0 +1,57 @@
+git --version
+
+cd desktop
+
+mkdir paginaweb
+
+mkdir proyectoweb
+
+cd proyectoweb
+
+git init
+
+clear
+
+touch index.html
+
+ls
+
+touch estilos.css
+
+ls
+
+touch funciones.js
+
+ls
+
+git status
+
+git add index.html
+
+git status
+
+git add .
+
+git status
+
+git commit -m "Commit proyecto"
+
+git log
+
+clear
+
+touch pagina2.html
+
+ls
+
+git status
+
+git add pagina2.html
+
+git status
+
+git commit -m "pagina 2"
+
+git log
+
+clear
